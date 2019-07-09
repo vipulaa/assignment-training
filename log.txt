@@ -1,0 +1,19 @@
+1d3123a HEAD@{0}: pull: Merge made by the 'recursive' strategy.
+36580c4 HEAD@{1}: commit (amend): third commit
+5ace045 HEAD@{2}: rebase -i (finish): returning to refs/heads/develop
+5ace045 HEAD@{3}: rebase -i (squash): third commit
+d17196f HEAD@{4}: rebase -i (start): checkout HEAD~2
+2bb845e HEAD@{5}: rebase -i (finish): returning to refs/heads/develop
+2bb845e HEAD@{6}: rebase -i (start): checkout HEAD~3
+2bb845e HEAD@{7}: rebase -i (finish): returning to refs/heads/develop
+2bb845e HEAD@{8}: rebase -i (start): checkout HEAD~3
+2bb845e HEAD@{9}: rebase -i (finish): returning to refs/heads/develop
+2bb845e HEAD@{10}: rebase -i (pick): Added README.md, .gitignore
+d17196f HEAD@{11}: rebase -i (pick): third commit
+70cfe63 HEAD@{12}: rebase -i (reword): changed the second commit
+311b9ef HEAD@{13}: rebase -i: fast-forward
+6e61d9a HEAD@{14}: rebase -i (start): checkout HEAD~3
+2b3c5c0 HEAD@{15}: commit (amend): Added README.md, .gitignore
+07ce8b7 HEAD@{16}: commit: Added README.md, .gitignore
+1ec27fc HEAD@{17}: checkout: moving from master to develop
+6e61d9a HEAD@{18}: clone: from https://github.com/vipulaa/assignment-training.git
